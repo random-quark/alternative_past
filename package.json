@@ -1,0 +1,13 @@
+{
+  "name": "alternative-past",
+  "version": "1.0.0",
+  "description": "A full-stack web app for AI-powered image generation from audio and images",
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "preview": "cd frontend && npm run preview"
+  },
+  "keywords": ["vue", "vite", "vercel", "ai", "image-generation"],
+  "author": "",
+  "license": "MIT"
+}
